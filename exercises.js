@@ -1,4 +1,4 @@
-let exercises = "Squat";
+let exercises = "Dumbbell curl";
 
 switch (exercises) {
     case "Dumbbell curl":
