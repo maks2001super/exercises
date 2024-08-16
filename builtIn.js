@@ -2,7 +2,7 @@
       return word.split('').reverse().join('')
   }
 
-  let word='mandarinka'
+  let word='mandarinka'                  // сюди писати слово))   
   let reverse=revstr(word)
 
   console.log(reverse)
@@ -15,7 +15,7 @@
      return word==word.split('').reverse().join('')
   }
 
-  if(ispolidrom('121')){
+  if(ispolidrom('121')){                  // сюди писати слово))
      console.log(true)
   } else {
      console.log(false)
